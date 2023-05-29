@@ -3,4 +3,4 @@
 
 ### Hierarquia e Especificidade CSS
 
-!(Imagem CSS)[abc.png]
+![Imagem CSS](abc.png)

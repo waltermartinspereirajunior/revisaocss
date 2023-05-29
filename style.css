@@ -1,0 +1,34 @@
+body{
+    margin-left: 20px;
+    color: rgb(4, 253, 170);
+    font-size: 100px;
+}
+
+p{
+    color:rgb(165, 42, 52)
+}
+
+.propaganda{
+    color: blue;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+.cabecalho{
+    color: fuchsia;
+    font-size: 30px;
+}
+
+#xilindro{
+    color: darkorange;
+}
+
+.fundoverde {
+    color: blueviolet;
+    background-color: rgb(221, 250, 154);
+    height: 50px;
+}
+.fundoverde p {
+    color: blueviolet;
+   
+}

@@ -4,3 +4,5 @@
 ### Hierarquia e Especificidade CSS
 
 ![Imagem CSS](abc.png)
+
+<img src="./abc.png" alt="Imagem CSS">

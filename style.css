@@ -26,9 +26,23 @@ p{
 .fundoverde {
     color: blueviolet;
     background-color: rgb(221, 250, 154);
-    height: 50px;
+  
 }
 .fundoverde p {
     color: blueviolet;
    
+}
+/*pseudoclasse*/
+.fundoverde :hover{
+    background-color: darkgreen;
+}
+/*pseudoelemento*/
+.fundoverde::after{
+    color: black;
+    content:"SOU UMA STRING";
+}
+/*mix pseudoelemento pseudoclasse*/
+.fundoverde:hover::after{
+    background-color: aquamarine;
+    height: 50px;
 }
